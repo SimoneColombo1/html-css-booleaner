@@ -12,12 +12,57 @@ header{
 }
 h1{
     font-size: 300%;
-    height: 100px;
+    height: 50px;
 }
 h2{
   color: #8e8e8e;
   font-size: 110%;
+  ;
 }
 #blue-font{
     color: #059fe1;
+}
+
+#contorno-giallo{
+    background-color: yellow;
+}
+#corsivo{
+         font-size: 60%;
+
+
+}
+th{
+    width: auto;
+    height: 1%;
+    color: white;
+    background-color:#20a9e5 ;
+    text-align: left;
+}
+#table-bgcolor{
+    color: black;
+    background-color:#b1e5f2 ;
+}
+td{
+    width: 400px;
+    height: 60px;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    background-repeat:no-repeat ;
+    width: 300px;
+    height: 200px;
+    text-align: left;
+    color: white;
+    font-size: 30px;
+}
+.grafico{
+    background-image: url(../img/graph.jpg);
+    background-repeat:no-repeat ;
+    width: 300px;
+    height: 200px;
+    text-align: left;
+    color: white;
+    font-size: 30px;
+
 }

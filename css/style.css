@@ -1,0 +1,23 @@
+
+header{
+    width: auto;
+    height: 180px;
+    background-image: url(../img/pattern.png);
+    background-color:#4ea0ff ;
+    text-align: left;
+}
+#logo{
+    width: 190px;
+    height: 170px;
+}
+h1{
+    font-size: 300%;
+    height: 100px;
+}
+h2{
+  color: #8e8e8e;
+  font-size: 110%;
+}
+#blue-font{
+    color: #059fe1;
+}
